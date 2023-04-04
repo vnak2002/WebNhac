@@ -108,3 +108,4 @@ D:\Work\VS\LTW\WebSach\WebSach\obj\Debug\WebSach.dll
 D:\Work\VS\LTW\WebSach\WebSach\obj\Debug\WebSach.pdb
 D:\Work\VS\LTW\WebSach\WebSach\obj\Debug\WebSach.Migrations.InitialModel.resources
 D:\Work\VS\LTW\WebSach\WebSach\obj\Debug\WebSach.csproj.GenerateResource.cache
+D:\Work\VS\LTW\WebSach\WebSach\obj\Debug\WebSach.Migrations.AddNamesToApplicationUser.resources
